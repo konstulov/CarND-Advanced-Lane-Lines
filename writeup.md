@@ -19,13 +19,13 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./test_images/test1.jpg "Road Transformed" [DONE]
-[image2]: ./output_images/undistort_test1.jpg "Undistorted" [DONE]
-[image3]: ./output_images/binary_combo_test1.jpg "Binary Example" [DONE]
-[image4]: ./output_images/warped_straight_lines2.jpg "Warp Example" [DONE]
-[image5]: ./output_images/color_fit_lines_test1.jpg "Fit Visual" [DONE]
-[image6]: ./output_images/example_output_test1.jpg "Output" [DONE]
-[video1]: ./output_videos/project_video_with_lanes.mp4 "Video" [DONE]
+[image1]: ./test_images/test1.jpg "Road Transformed"
+[image2]: ./output_images/undistort_test1.jpg "Undistorted"
+[image3]: ./output_images/binary_combo_test1.jpg "Binary Example"
+[image4]: ./output_images/warped_straight_lines2.jpg "Warp Example"
+[image5]: ./output_images/color_fit_lines_test1.jpg "Fit Visual"
+[image6]: ./output_images/example_output_test1.jpg "Output"
+[video1]: ./output_videos/project_video_with_lanes.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
